@@ -139,5 +139,3 @@ The complete academic synopsis is available here:
 ## 🏁 Conclusion
 
 The AI-Powered Ludo Game successfully combines data structures, artificial intelligence, and user experience design into a cohesive, interactive application. It stands as both an engaging game and a practical educational tool illustrating the real-world relevance of computer science concepts.
-* adapt it for **resume / LinkedIn**
-* or align it exactly with your **internal assessment rubric**
